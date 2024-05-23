@@ -1,0 +1,10 @@
+black
+pytest
+pytest-cov
+pylint
+ipython
+fastapi
+click
+pandas
+geopy
+numpy
